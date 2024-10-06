@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Cloud Native Applications and Project Management**
 
-- Started to write articles on [Medium](https://medium.com/@fkengne.mcdns)
+- Started to write articles on the process.
 
-- ⚡ Fun fact **I am really open minded**
+- ⚡ Fun fact **I am very patience & willing to learn **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
