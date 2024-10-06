@@ -2,7 +2,7 @@
 <h3 align="center">A passionate System Admin & Cloud Engineer.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franckya&label=Profile%20views&color=0e75b6&style=flat" alt="Popara5" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Popara5&label=Profile%20views&color=0e75b6&style=flat" alt="Popara5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Popara5" alt="Popara5" /></a> </p>
 
@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Popara5&show_icons=true&locale=en" alt="Popara5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franckya&" alt="Popara5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Popara5&" alt="Popara5" /></p>
 
 
 
