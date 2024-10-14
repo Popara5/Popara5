@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on [Building a docker app for ACR](https://github.com/Popara5/docker-acr)
 
-- 📝 I regularly write articles on [)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/patience-opara-268930248/)
 
 - 💬 Ask me about **Cloud Native Applications and Project Management**
 
